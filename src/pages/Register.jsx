@@ -205,7 +205,7 @@ function Register() {
                     variant="primary"
                     className="w-100 py-2 fw-semibold"
                   >
-                    Create Account
+                    Register
                   </Button>
 
                 </Form>
